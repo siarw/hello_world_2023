@@ -1,3 +1,4 @@
 My Project
 
-By Pedro
+By Pedro Lacerda (adding surname is hot fix!)
+
