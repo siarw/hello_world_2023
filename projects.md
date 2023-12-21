@@ -1,3 +1,0 @@
-# New Projects
-
-Testing here.
